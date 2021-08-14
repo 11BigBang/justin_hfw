@@ -10,5 +10,5 @@ class Settings:
         self.bg_color = (250, 250, 250)
 
         # Fonts
-        self.font_1 = SysFont('impact', 100)
+        self.font_1 = SysFont('impact', 150)
         self.font_2 = SysFont('Arial', 32)
